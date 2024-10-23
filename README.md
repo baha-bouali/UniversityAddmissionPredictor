@@ -94,21 +94,6 @@ Below is a list of input variables used by the model to predict placement:
   
 - **Web-based interface** (Optional): You can develop a web-based interface using Flask or Django to allow users to enter data through a form and receive predictions online.
 
-## Project Structure
-
-```
-university-admission-predictor/
-│
-├── data/                   # Dataset for training and testing
-├── model/                  # Trained model file
-├── src/                    # Source code for prediction and training
-├── notebooks/              # Jupyter notebooks for analysis and experiments
-├── app.py                  # Flask/Django app for web-based interface
-├── predict.py              # Script for prediction using input variables
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-```
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss potential improvements or features.
