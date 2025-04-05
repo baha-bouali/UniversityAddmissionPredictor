@@ -1,8 +1,3 @@
-# UniversityAddmissionPredictor
-Here’s a sample README file for your University Admission Predictor project:
-
----
-
 # University Admission Predictor
 
 This project predicts whether a student is likely to be placed or not based on various academic and demographic factors. The predictor utilizes a machine learning model that takes several input variables and provides a prediction of the student's placement status.
